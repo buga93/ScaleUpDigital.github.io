@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin
-Disallow: /.git
-
-Sitemap: https://scaleupdigital.com/sitemap.xml
